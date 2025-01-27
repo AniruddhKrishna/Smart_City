@@ -129,4 +129,4 @@ if st.session_state.historical_data:
 
 # Auto-refresh every 5 seconds
 time.sleep(5)
-st.rerun()
+st.experimental_rerun()
