@@ -1,2 +1,2 @@
 # Smart_City <br>
-All codes necessary for the corresponding Presentation
+The repository for the Shaastra Smart City Hackathon where we claimed 1st prize among 623 participants.
