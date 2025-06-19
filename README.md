@@ -1,7 +1,6 @@
 # Smart_City <br>
 The repository for the Shaastra Smart City Hackathon where we claimed 1st prize among 623 participants.
 
-Water Quality Monitoring & Analysis System
 Welcome to the Water Quality Monitoring & Analysis System repository! This project provides a comprehensive solution for real-time monitoring, visualization, and intelligent analysis of water quality in drainage systems. It combines IoT data simulation, a live dashboard, computer vision for object detection, and a smart retrieval-augmented QA system.
 
 Project Structure
